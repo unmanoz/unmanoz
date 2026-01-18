@@ -2,7 +2,7 @@
 
 🎯 Java Backend Developer | Spring Boot | Microservices | AWS | TCS Alumni | Freelancer on Upwork
 
-Welcome to my GitHub! I'm a passionate backend developer with 2.5 years of experience at **Tata Consultancy Services (TCS)**, currently offering freelance services on **Upwork**.
+Welcome to my GitHub! I'm a passionate backend developer with 2.10 years of experience at **Tata Consultancy Services (TCS)**, currently offering freelance services on **Upwork**.
 
 I specialize in building scalable and secure backend systems using Java and Spring Boot. My goal is to deliver **enterprise-quality backend development** to startups, businesses, and individuals on a project basis.
 
